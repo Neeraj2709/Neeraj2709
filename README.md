@@ -3,9 +3,9 @@
 <h3 align="center">I Enjoy Creating Things That Live On The Internet 😉</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🔭 I’m currently working on <a href="" target="_blank">Portfolio</a>
+- 🔭 I’m currently working on a project named <a href="" target="_blank">PetCare Connect</a>
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Java Script**
 
 - 💬 Ask me about **Java**
 
