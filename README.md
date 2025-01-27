@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a project named <a href="" target="_blank">PetCare Connect</a>
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Java**
 
